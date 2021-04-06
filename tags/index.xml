@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Tags on My Simple Blog</title>
-		<link>https://asdsoftlabs.github.io/mysimpleblog.github.io/tags/</link>
-		<description>Recent content in Tags on asdsoftlabs.github.io</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
-		
-		<atom:link href="https://asdsoftlabs.github.io/mysimpleblog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-		
-		
-	</channel>
+  <channel>
+    <title>Tags on My Simple Blog Site</title>
+    <link>https://asdsoftlabs.github.io/mysimpleblog.github.io/tags/</link>
+    <description>Recent content in Tags on My Simple Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Apr 2021 13:31:08 -0500</lastBuildDate>
+    
+	<atom:link href="https://asdsoftlabs.github.io/mysimpleblog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://asdsoftlabs.github.io/mysimpleblog.github.io/tags/test/</link>
+      <pubDate>Tue, 06 Apr 2021 13:31:08 -0500</pubDate>
+      
+      <guid>https://asdsoftlabs.github.io/mysimpleblog.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
